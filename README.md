@@ -4,4 +4,4 @@ Name: Louis Padillo
 
 ID: 161530
 
-Date Completed:
+Date Completed: October 17, 2018
